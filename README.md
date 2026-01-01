@@ -7,9 +7,6 @@ A Spring Boot application that analyzes SQL queries and provides execution insig
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [Swagger API Documentation](#swagger-api-documentation)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
