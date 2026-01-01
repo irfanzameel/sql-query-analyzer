@@ -11,6 +11,7 @@ A Spring Boot application that analyzes SQL queries and provides execution insig
 - [Swagger API Documentation](#swagger-api-documentation)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Overview
 Query Analyzer is a Java Spring Boot application that allows developers and DBAs to analyze SQL queries with detailed execution information including `EXPLAIN ANALYZE` results. This helps in **query optimization** and understanding **performance bottlenecks** in PostgreSQL.
@@ -39,3 +40,16 @@ Query Analyzer is a Java Spring Boot application that allows developers and DBAs
    ```bash
    git clone https://github.com/irfanzameel/sql-query-analyzer
    cd query-analyzer
+
+## Contact
+**Author:** Irfan Zameel  
+**Email:** irfanzameel@example.com  
+**GitHub:** [irfanzameel](https://github.com/irfanzameel)  
+**LinkedIn:** [Irfan Zameel](www.linkedin.com/in/irfan-zameel-ka-52162b288)  
+
+
+### License
+- This project is licensed under the MIT License.
+
+  
+Feel free to reach out for questions, suggestions, or collaboration.
