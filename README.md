@@ -37,5 +37,5 @@ Query Analyzer is a Java Spring Boot application that allows developers and DBAs
 ### Steps
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/irfanzameel/sql-query-analyzer
    cd query-analyzer
