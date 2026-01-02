@@ -1,5 +1,6 @@
-# Query Analyzer
+<img width="1756" height="811" alt="Screenshot 2026-01-02 114016" src="https://github.com/user-attachments/assets/2a198e5c-f334-47ef-aa90-69460f2c112b" />
 
+# Query Analyzer
 A Spring Boot application that analyzes SQL queries and provides execution insights using PostgreSQL.
 
 ## Table of Contents
