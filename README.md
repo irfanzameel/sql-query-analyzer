@@ -41,7 +41,7 @@ Query Analyzer is a Java Spring Boot application that allows developers and DBAs
 
 ## Contact
 **Author:** Irfan Zameel K A
-**Email:** irfanzameelka@.com  
+**Email:** irfanzameelka@gmail.com  
 **GitHub:** [irfanzameel](https://github.com/irfanzameel)  
 **LinkedIn:** [Irfan Zameel](https://www.linkedin.com/in/irfan-zameel-ka-52162b288)  
 
